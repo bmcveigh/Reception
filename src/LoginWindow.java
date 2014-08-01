@@ -3,7 +3,11 @@ import javax.swing.JOptionPane;
 import javax.swing.JPasswordField;
 import javax.swing.JTextField;
 
-
+/**
+ * @author BrianMcVeigh
+ * @date Aug 1, 2014
+ * @time 1:15:59 PM
+ */
 public class LoginWindow {
 	private JFrame frame;
 
